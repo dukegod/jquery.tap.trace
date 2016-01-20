@@ -1,0 +1,22 @@
+{
+  "name": "taptrace",
+  "version": "1.0.0",
+  "description": "webapp hover ",
+  "main": "jquery.tap.trace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukegod/jqueryTapTrace.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "dukegod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dukegod/jqueryTapTrace/issues"
+  },
+  "homepage": "https://github.com/dukegod/jqueryTapTrace#readme"
+}
